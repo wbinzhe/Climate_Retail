@@ -8,4 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to Climate Change and Future Real Estate research website.
+
+[Our TO-DOs](meeting_notes.html). 
+
+[Our Results](meeting_notes.html). 

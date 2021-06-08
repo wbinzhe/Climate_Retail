@@ -1,0 +1,26 @@
+---
+title: "meeting_note"
+author: "Binzhe Wang"
+date: "6/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 05-26-2021
+- Discussion Points:
+Japan project: Binzhe introduced available Japanese data so far
+US project: similar topic but we can start this summer
+Andres collaboration: Binzhe send quick note and invitation when the progress becomes shareable. Ask Andres to attend internal meetings and comments. 
+
+- Actions till next meeting:
+  - [x] Description paragraphs for [Japan climatic data](https://docs.google.com/spreadsheets/d/1SDsY1pXSwH0R8UQ5DoILyS6voS4ihzlc5L0znh8WPBY/edit#gid=0)
+  - get US data 
+    - [] Neilson 
+    - [x] RCA sample 
+    - [x] SNL real estate
+  - R markdown 
+    - https://happygitwithr.com/
+    - https://cran.r-project.org/web/packages/workflowr/vignettes/wflow-01-getting-started.html
