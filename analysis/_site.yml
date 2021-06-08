@@ -1,7 +1,7 @@
-name: "Climate_Retail"
+name: Climate_Retail
 output_dir: ../docs
 navbar:
-  title: "Climate_Retail"
+  title: Climate_Retail
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/wbinzhe/Climate_Retail
 output:
   workflowr::wflow_html:
     toc: yes
